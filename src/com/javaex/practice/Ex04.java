@@ -9,7 +9,7 @@ public class Ex04 {
 		int count = 0;
 		int total = 0;
 		
-		for(int i = 1; i<data.length; i++) {
+		for(int i = 0; i<data.length; i++) {
 			
 			if(data[i]%3==0) {
 				
